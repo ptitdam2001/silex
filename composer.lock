@@ -499,6 +499,7 @@
     "minimum-stability": "beta",
     "stability-flags": [],
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }
