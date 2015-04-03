@@ -1,0 +1,14 @@
+{
+    "name": "ptitdam2001/silex",
+    "description": "my sylex api",
+    "authors": [
+        {
+            "name": "Damien Suhard",
+            "email": "ptitdam2001@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "silex/silex": "~1.2"
+    }
+}
