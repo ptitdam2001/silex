@@ -10,5 +10,10 @@
     "minimum-stability": "beta",
     "require": {
         "silex/silex": "~1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ptitdam2001\\": "app/"
+        }
     }
 }
